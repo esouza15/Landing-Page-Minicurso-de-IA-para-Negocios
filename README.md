@@ -100,6 +100,10 @@ O minicurso foi estruturado em uma imersão focada em prática:
 
 - **Engenharia de Prompt HITL:** Uso de LLMs para auxílio na produção de código e estruturação de dados, com validação humana para auditoria técnica.
 
+## Link de acesso:
+
+- [Mini curso de ia para negócios](https://liberi-ead.com/curso-de-ia-para-negocios/)
+
 ---
 
 Developed by [Esthefison / Remoto](https://remotoagencia.com.br/) 🚀
