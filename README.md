@@ -1,0 +1,1 @@
+# Landing-Page-Minicurso-de-IA-para-Neg-cios
