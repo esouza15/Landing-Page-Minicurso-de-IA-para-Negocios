@@ -1,6 +1,6 @@
 # Landing Page: Mini Curso de IA para Negócios
 
-> **Projeto completo de produto digital:** Desenvolvimento de Landing Page de alta conversão para WordPress, arquitetura de curso LMS (LearnDash), UX/UI responsivo (Mobile-First) e estratégia integrada de Copywriting & SEO On-Page.
+> **Projeto completo de produto digital:** Desenvolvimento de Landing Page de alta conversão para WordPress, arquitetura de curso LMS (LearnDash), UX/UI responsivo (Mobile-First) e estratégia integrada de Copywriting & SEO On-Page. 👉 [liberi-ead.com/curso-de-ia-para-negocios/](https://liberi-ead.com/curso-de-ia-para-negocios/)
 
 ---
 
